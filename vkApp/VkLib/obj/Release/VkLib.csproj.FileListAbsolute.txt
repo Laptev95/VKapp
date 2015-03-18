@@ -1,0 +1,12 @@
+R:\vkApp\VkLib\bin\Release\VkLib.dll
+R:\vkApp\VkLib\bin\Release\VkLib.pdb
+R:\vkApp\VkLib\bin\Release\Newtonsoft.Json.dll
+R:\vkApp\VkLib\obj\Release\VkLib.csprojResolveAssemblyReference.cache
+R:\vkApp\VkLib\obj\Release\VkLib.dll
+R:\vkApp\VkLib\obj\Release\VkLib.pdb
+D:\Programming\vkApp\VkLib\bin\Release\VkLib.dll
+D:\Programming\vkApp\VkLib\bin\Release\VkLib.pdb
+D:\Programming\vkApp\VkLib\bin\Release\Newtonsoft.Json.dll
+D:\Programming\vkApp\VkLib\obj\Release\VkLib.csprojResolveAssemblyReference.cache
+D:\Programming\vkApp\VkLib\obj\Release\VkLib.dll
+D:\Programming\vkApp\VkLib\obj\Release\VkLib.pdb

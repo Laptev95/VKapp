@@ -1,0 +1,571 @@
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\App.g.cs
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\vkApp.exe
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\vkApp.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\NAudio.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\NLog.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\VkLib.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\VkLib.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\NAudio.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\NLog.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\App.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\MainWindow.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.g.resources
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.exe
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\vkApp.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+C:\Users\Laptev\documents\visual studio 2013\Projects\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.exe
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe
+D:\Progging\vkApp\vkApp\bin\Debug\vkApp.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+D:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Progging\vkApp\vkApp\bin\Debug\NAudio.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+D:\Progging\vkApp\vkApp\bin\Debug\NLog.dll
+D:\Progging\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+D:\Progging\vkApp\vkApp\bin\Debug\VkLib.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+D:\Progging\vkApp\vkApp\bin\Debug\VkLib.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+D:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Progging\vkApp\vkApp\bin\Debug\NAudio.xml
+D:\Progging\vkApp\vkApp\bin\Debug\NLog.xml
+D:\Progging\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+D:\Progging\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+D:\Progging\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+D:\Progging\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\App.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+D:\Progging\vkApp\vkApp\obj\Debug\App.baml
+D:\Progging\vkApp\vkApp\obj\Debug\MainWindow.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.g.resources
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+D:\Progging\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.exe
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\vkApp.exe
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\vkApp.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\NAudio.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\NLog.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\VkLib.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\VkLib.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\NAudio.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\NLog.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\App.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\App.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\MainWindow.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.g.resources
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\LoginView.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Main\LoginView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.g.cs
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\Resources\Styles\CheckBoxStyles.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.baml
+C:\Users\Laptev\Desktop\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\CheckBoxStyles.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\LoginView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\LoginView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.exe
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe
+E:\Progging\vkApp\vkApp\bin\Debug\vkApp.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+E:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Progging\vkApp\vkApp\bin\Debug\NAudio.dll
+E:\Progging\vkApp\vkApp\bin\Debug\NLog.dll
+E:\Progging\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+E:\Progging\vkApp\vkApp\bin\Debug\VkLib.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+E:\Progging\vkApp\vkApp\bin\Debug\VkLib.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+E:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Progging\vkApp\vkApp\bin\Debug\NAudio.xml
+E:\Progging\vkApp\vkApp\bin\Debug\NLog.xml
+E:\Progging\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+E:\Progging\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+E:\Progging\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\CheckBoxStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\LoginView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\App.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+E:\Progging\vkApp\vkApp\obj\Debug\App.baml
+E:\Progging\vkApp\vkApp\obj\Debug\MainWindow.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\LoginView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.g.resources
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+E:\Progging\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache
+R:\vkApp\vkApp\obj\Debug\vkApp.exe
+R:\vkApp\vkApp\obj\Debug\vkApp.pdb
+R:\vkApp\vkApp\bin\Debug\vkApp.exe
+R:\vkApp\vkApp\bin\Debug\vkApp.pdb
+R:\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+R:\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+R:\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+R:\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+R:\vkApp\vkApp\bin\Debug\NAudio.dll
+R:\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+R:\vkApp\vkApp\bin\Debug\NLog.dll
+R:\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+R:\vkApp\vkApp\bin\Debug\VkLib.dll
+R:\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+R:\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+R:\vkApp\vkApp\bin\Debug\VkLib.pdb
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+R:\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+R:\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+R:\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+R:\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+R:\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+R:\vkApp\vkApp\bin\Debug\NAudio.xml
+R:\vkApp\vkApp\bin\Debug\NLog.xml
+R:\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+R:\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+R:\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+R:\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\CheckBoxStyles.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+R:\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+R:\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+R:\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.baml
+R:\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+R:\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+R:\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\LoginView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+R:\vkApp\vkApp\obj\Debug\App.g.cs
+R:\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+R:\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+R:\vkApp\vkApp\obj\Debug\App.baml
+R:\vkApp\vkApp\obj\Debug\MainWindow.baml
+R:\vkApp\vkApp\obj\Debug\View\Main\LoginView.baml
+R:\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+R:\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.baml
+R:\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+R:\vkApp\vkApp\obj\Debug\vkApp.g.resources
+R:\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+R:\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache
+R:\vkApp\vkApp\obj\Debug\View\Main\FriendsView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\FriendsView.baml
+R:\vkApp\vkApp\obj\Debug\View\Main\GroupsView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Selected\UserView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\GroupsView.baml
+R:\vkApp\vkApp\obj\Debug\View\Selected\UserView.baml
+R:\vkApp\vkApp\obj\Debug\View\Selected\GroupView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Selected\GroupView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\FriendsView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\GroupsView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Selected\GroupView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Selected\UserView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\FriendsView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Main\GroupsView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Selected\GroupView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Selected\UserView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\FriendsView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\GroupsView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Selected\GroupView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Selected\UserView.g.cs
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\FriendsView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Main\GroupsView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Selected\GroupView.baml
+D:\Progging\vkApp\vkApp\obj\Debug\View\Selected\UserView.baml
+R:\vkApp\vkApp\bin\Debug\vkApp.exe.config
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+R:\vkApp\vkApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+R:\vkApp\vkApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\ProgressBarStyles.baml
+D:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.config
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Progging\vkApp\vkApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ProgressBarStyles.baml
+R:\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.baml
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.baml
+R:\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.g.cs
+R:\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+R:\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+R:\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+R:\vkApp\vkApp\obj\Debug\Resources\Styles\TabControlStyles.baml
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.baml
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.g.cs
+E:\Progging\vkApp\vkApp\bin\Debug\vkApp.exe.config
+E:\Progging\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Progging\vkApp\vkApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Progging\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+E:\Progging\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+E:\Progging\vkApp\vkApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Progging\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\ProgressBarStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Resources\Styles\TabControlStyles.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.baml
+E:\Progging\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.g.cs
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.baml
+E:\Progging\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.baml
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\WebValidationView.baml
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\WebValidationView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Main\PhotosView.baml
+R:\vkApp\vkApp\obj\Debug\View\Main\PhotosView.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\PhotoFlyout.g.cs
+R:\vkApp\vkApp\obj\Debug\View\Flyouts\PhotoFlyout.baml
+D:\Programming\vkApp\vkApp\bin\Debug\vkApp.exe.config
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.exe
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\vkApp.exe
+D:\Programming\vkApp\vkApp\bin\Debug\vkApp.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\vkApp.exe.CodeAnalysisLog.xml
+D:\Programming\vkApp\vkApp\bin\Debug\vkApp.exe.lastcodeanalysissucceeded
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Programming\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+D:\Programming\vkApp\vkApp\bin\Debug\HtmlAgilityPack.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Programming\vkApp\vkApp\bin\Debug\NAudio.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\vkApp\vkApp\bin\Debug\NLog.dll
+D:\Programming\vkApp\vkApp\bin\Debug\System.Windows.Interactivity.dll
+D:\Programming\vkApp\vkApp\bin\Debug\VkLib.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Yandex.Metrica.dll
+D:\Programming\vkApp\vkApp\bin\Debug\Zlib.Portable.dll
+D:\Programming\vkApp\vkApp\bin\Debug\VkLib.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Programming\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+D:\Programming\vkApp\vkApp\bin\Debug\HtmlAgilityPack.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\HtmlAgilityPack.xml
+D:\Programming\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Programming\vkApp\vkApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Programming\vkApp\vkApp\bin\Debug\NAudio.xml
+D:\Programming\vkApp\vkApp\bin\Debug\NLog.xml
+D:\Programming\vkApp\vkApp\bin\Debug\Yandex.Metrica.xml
+D:\Programming\vkApp\vkApp\bin\Debug\Zlib.Portable.xml
+D:\Programming\vkApp\vkApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.csprojResolveAssemblyReference.cache
+D:\Programming\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\Animations.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\ButtonStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\CheckBoxStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\Colors.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\DataTemplates.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\Icons.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\ListBoxStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\ProgressBarStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\ScrollbarStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\TabControlStyles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\WindowButtons.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Skins\MainSkin.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\WebValidationView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\ProfileView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\vk_auth.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Controls\FlyoutControl.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\Controls\ImageTransitionControl.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\MainWindow.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\CommonMessageView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\PhotoFlyout.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\WebValidationView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\FriendsView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\GroupsView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\LoginView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\MusicView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\PhotosView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\ProfileView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Selected\GroupView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Selected\UserView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Settings\SettingsAccountsView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\View\vk_auth.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\App.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.cache
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp_MarkupCompile.lref
+D:\Programming\vkApp\vkApp\obj\Debug\App.baml
+D:\Programming\vkApp\vkApp\obj\Debug\MainWindow.baml
+D:\Programming\vkApp\vkApp\obj\Debug\Resources\Styles\Styles.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\FollowersFlyout.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\FriendsFlyout.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Flyouts\PhotoFlyout.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\FriendsView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\GroupsView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\LoginView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\MusicView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Main\PhotosView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Selected\GroupView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Selected\UserView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\Settings\SettingsView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\View\TrackNotifcationView.baml
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.g.resources
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.Properties.Resources.resources
+D:\Programming\vkApp\vkApp\obj\Debug\vkApp.csproj.GenerateResource.Cache

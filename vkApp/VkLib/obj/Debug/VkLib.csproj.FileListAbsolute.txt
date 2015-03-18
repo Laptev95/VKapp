@@ -1,0 +1,35 @@
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\bin\Debug\VkLib.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\bin\Debug\VkLib.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\obj\Debug\VkLib.dll
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\obj\Debug\VkLib.pdb
+C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\VkLib\obj\Debug\VkLib.csprojResolveAssemblyReference.cache
+C:\Users\Laptev\Desktop\vkApp\VkLib\bin\Debug\VkLib.dll
+C:\Users\Laptev\Desktop\vkApp\VkLib\bin\Debug\VkLib.pdb
+C:\Users\Laptev\Desktop\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptev\Desktop\vkApp\VkLib\obj\Debug\VkLib.csprojResolveAssemblyReference.cache
+C:\Users\Laptev\Desktop\vkApp\VkLib\obj\Debug\VkLib.dll
+C:\Users\Laptev\Desktop\vkApp\VkLib\obj\Debug\VkLib.pdb
+D:\Progging\vkApp\VkLib\bin\Debug\VkLib.dll
+D:\Progging\vkApp\VkLib\bin\Debug\VkLib.pdb
+D:\Progging\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+D:\Progging\vkApp\VkLib\obj\Debug\VkLib.csprojResolveAssemblyReference.cache
+D:\Progging\vkApp\VkLib\obj\Debug\VkLib.dll
+D:\Progging\vkApp\VkLib\obj\Debug\VkLib.pdb
+E:\Progging\vkApp\VkLib\bin\Debug\VkLib.dll
+E:\Progging\vkApp\VkLib\bin\Debug\VkLib.pdb
+E:\Progging\vkApp\VkLib\obj\Debug\VkLib.csprojResolveAssemblyReference.cache
+E:\Progging\vkApp\VkLib\obj\Debug\VkLib.dll
+E:\Progging\vkApp\VkLib\obj\Debug\VkLib.pdb
+R:\vkApp\VkLib\bin\Debug\VkLib.dll
+R:\vkApp\VkLib\bin\Debug\VkLib.pdb
+R:\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+R:\vkApp\VkLib\obj\Debug\VkLib.dll
+R:\vkApp\VkLib\obj\Debug\VkLib.pdb
+R:\vkApp\VkLib\obj\Debug\VkLib.csprojResolveAssemblyReference.cache
+E:\Progging\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\vkApp\VkLib\bin\Debug\VkLib.dll
+D:\Programming\vkApp\VkLib\bin\Debug\VkLib.pdb
+D:\Programming\vkApp\VkLib\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\vkApp\VkLib\obj\Debug\VkLib.dll
+D:\Programming\vkApp\VkLib\obj\Debug\VkLib.pdb

@@ -1,7 +1,0 @@
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\bin\Debug\EchonestApi.dll
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\bin\Debug\EchonestApi.pdb
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\obj\Debug\EchonestApi.dll
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\obj\Debug\EchonestApi.pdb
-C:\Users\Laptev\Documents\Visual Studio 2013\Projects\vkApp\EchonestApi\Trunk\obj\Debug\EchonestApi.csprojResolveAssemblyReference.cache
